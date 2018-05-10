@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ToDo.Style"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <FontFamily x:Key="LogoFont">pack://application;,,,/Fonts/#The Bully_PersonalUseOnly</FontFamily>
+    <FontFamily x:Key="TimesNewRoman">pack://application;,,,/Fonts/#Times New Roman</FontFamily>
+    <FontFamily x:Key="FontAwesome">pack://application;,,,/Fonts/#FontAwesome</FontFamily>
+    <FontFamily x:Key="RobotoBold">pack://application;,,,/Fonts/#Roboto Bold</FontFamily>
+    <FontFamily x:Key="RobotoItalic">pack://application;,,,/Fonts/#Roboto Italic</FontFamily>
+    <FontFamily x:Key="RobotoThin">pack://application;,,,/Fonts/#Roboto Thin</FontFamily>
+    <FontFamily x:Key="RobotoBlack">pack://application;,,,/Fonts/#Roboto Black</FontFamily>
+    <FontFamily x:Key="RobotoMedium">pack://application;,,,/Fonts/#Roboto Medium</FontFamily>
+
+    <system:Double x:Key="FontSizeRegular">15</system:Double>
+    <system:Double x:Key="FontSizeLarge">20</system:Double>
+    <system:Double x:Key="FontSizeSmall">10</system:Double>
+</ResourceDictionary>
